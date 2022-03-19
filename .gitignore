@@ -1,2 +1,4 @@
 *.zip
 *.json
+papers/
+spotify_million_playlist/challenge/sample_submission.csv
